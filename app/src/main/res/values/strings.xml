@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scacchiera</string>
+    <string name="Divioni">Divisioni</string>
+    <string name="victory">Vittoria:</string>
+    <string name="step">Mosse:</string>
+    <string name="newgame">Gioca!</string>
+</resources>
